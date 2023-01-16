@@ -23,5 +23,3 @@ Example: 'selectedtext#'
 fmenu.py only works with an exported booksmarks.html file that you can export from firefox. then you'll get
 a list of links in dmenu that you can copy. The bookmarks.html file must be in the same directory.
 
-![dm1](https://user-images.githubusercontent.com/39969900/212649426-b01414d9-ca95-4778-822c-0791b4887eeb.png)
-![dm2](https://user-images.githubusercontent.com/39969900/212649438-46e6b388-d3b9-41ca-9da4-103b2adf15d9.png)
