@@ -1,10 +1,8 @@
 #[stuff]
-https://yewtu.be/watch?v=ROaj3bCpZEM
+https://tube.prymans.xyz/channel/UC2eYFnH61tmytImy1mTYvhA
 #[tools]
 https://www.coolgenerator.com/ascii-text-generator
 #[notes]
 #[anime]
-https://w1.zoro.se/anime-watch/sword-of-the-stranger-dub/episode-1.html
-https://w1.zoro.se/anime-watch/redline-dub/episode-1.html
 #[$$$]
 #[modz]
