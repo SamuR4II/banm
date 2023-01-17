@@ -1,7 +1,7 @@
 # banm.py
 
-The program reads the links.txt file, opens Dmenu and shows you a few link/bookmark "folders". Whem you select
-one, you will see the links in that are in that "folder". then you can select a links or note and it will copy
+The program reads the links.txt file, opens Dmenu and shows you a few link/bookmark "folders". When you select
+one, you will see the links or notes that are in that "folder". then you can select a links or note and it will copy
 it to your clipboard.
 
 In the Links.txt file, "folders" are presented as a hashtag and text in brackets, like this: #[ExampleText]
